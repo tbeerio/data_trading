@@ -1,1 +1,1 @@
-# data_trading
+This repository analyzes datasets relevant in trading.

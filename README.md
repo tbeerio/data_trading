@@ -1,5 +1,9 @@
 This repository represents Tim's work for CF's Crypto Trading Data Science Assessment.
 
+The repository contains the following scripts:
+
+1. Main.ipynb:              The entire assessment has been performed in this Jupyter Notebook.
+
 The repository contains the following folders:
 
 1. Matteos Datasets:        This folder contains the original datasets Matteo sent me via email.
@@ -11,3 +15,4 @@ The repository contains the following folders:
 6. Calculated Datasets:     This folder contains a BTC and an ETH dataset (based on the cleaned version of Matteo's Binance datasets).
                             These two datasets were used to do all sorts of calculations and visualizations in the assessment.
 7. Figures:                 This folder contains all figures produced by the main.ipynb script.
+

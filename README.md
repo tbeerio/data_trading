@@ -16,7 +16,7 @@ This folder contains a trading dataset which I retrieved from Binance via an API
 3. Cleaned Datasets:        
 This folder contains the cleaned versions of Matteo's datasets.
 
-4. 1h Reampled Datasets:    
+4. 1h Resampled Datasets:    
 This folder contains Matteo's datasets resampled to an hourly interval.
 
 5. Interpolated Datasets:   

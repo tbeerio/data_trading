@@ -3,7 +3,7 @@ This repository represents Tim's work for CF's Crypto Trading Data Science Asses
 The repository contains the following scripts:
 
 1. Main.ipynb:              
-The entire assessment has been performed in this Jupyter Notebook.
+This entire assessment has been conducted within this Jupyter Notebook.
 
 The repository contains the following folders:
 

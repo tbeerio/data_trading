@@ -1,1 +1,1 @@
-This repository analyzes datasets relevant in trading.
+This repository represents Tim's work for CF's Crypto Trading Data Science Assessment.

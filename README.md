@@ -21,7 +21,7 @@ This folder contains Matteo's datasets resampled to an hourly interval.
 
 5. Interpolated Datasets:   
 Since the two Kraken datasets had 3 respectively 4 missing values (2min interval instead of 1min),
-I created two new datasets out of them which linearly interpolated the missing timestamps.
+I created two new datasets where the missing values have been linearly interpolated.
 
 6. Calculated Datasets:     
 This folder contains a BTC and an ETH dataset (based on the cleaned version of Matteo's Binance datasets).
